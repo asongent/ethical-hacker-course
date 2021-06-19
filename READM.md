@@ -18,19 +18,19 @@ sudo apt install git -y
 sudo apt purge *impacket* -y
 ```
 - clone and impacket pakage from [impacket repo on GitHub](https://github.com/SecureAuthCorp/impacket) and reinstall impacket
-- - First `cd /opt/` directory and run 
+  - First `cd /opt/` directory and run 
 ```bash
 git clone https://github.com/SecureAuthCorp/impacket.git
 ```
 
-- - If you do no have python3 & pip installed already, run 
+  - If you do no have python3 & pip installed already, run 
 ```bash
 sudo apt install python3 -y
 ```
 ```bash
 sudo install pip
 ```
-- - Move to impacket folder(`cd impacket`) and reinstall ipacket
+ - Move to impacket folder(`cd impacket`) and reinstall ipacket
 ```bash
 sudo python3 -m pip install .
 ```
