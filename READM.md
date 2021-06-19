@@ -1,4 +1,4 @@
-#### Ethical Hacker
+## Ethical Hacker
 
 ##### In this course, we will learn some basics of Network penetration Testing
 
@@ -8,7 +8,7 @@
 - - If you are on Windows, you may download [WSL](https://www.kali.org/get-kali/#kali-wsl) for Kali from [miscrosoft store](https://www.microsoft.com/en-us/p/kali-linux/9pkr34tncv07?activetab=pivot:overviewtab). 
 
 ##### Enable and turn services
-- Once the installation is completed, enable and turn the following services
+- Once the installation is completed, enable and turn on the following services.
 
 ```bash
 sudo systemctl enable apache2
