@@ -30,7 +30,7 @@ sudo apt install python3 -y
 ```bash
 sudo install pip
 ```
- - Move to impacket folder(`cd impacket`) and reinstall ipacket
+   - Move to impacket folder(`cd impacket`) and reinstall ipacket
 ```bash
 sudo python3 -m pip install .
 ```
